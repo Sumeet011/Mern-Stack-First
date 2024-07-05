@@ -2,7 +2,7 @@
 const mongoose=require("mongoose");
 
 
-mongoose.connect("mongodb+srv://blankgamer132:C0FVVFg9Owgpi5NU@cluster0.gpisnd1.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+mongoose.connect("")
 const todoSchema= mongoose.Schema({
     title: String,
     description: String,
