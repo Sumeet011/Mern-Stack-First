@@ -1,5 +1,3 @@
-{Password: C0FVVFg9Owgpi5NU
-username: blankgamer132}
 
 
 ##Todo App 
